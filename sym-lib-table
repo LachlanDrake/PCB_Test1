@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "GPS Module")(type "KiCad")(uri "${KIPRJMOD}/GPS Module.kicad_sym")(options "")(descr ""))
+)
